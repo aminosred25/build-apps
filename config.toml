@@ -18,14 +18,6 @@ arch = "arm64-v8a"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.uptodown.com/android"
 
-[Spotify]
-arch = "arm64-v8a"
-version = "9.0.76.1126"
-#apkmirror-dpi = "320-480dpi"
-patches-source = "anddea/revanced-patches"
-#apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts"
-uptodown-dlurl = "https://spotify.uptodown.com/android"
-
 [YouTube]
 arch = "arm64-v8a"
 apkmirror-dpi = "120-640dpi"
