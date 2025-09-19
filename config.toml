@@ -7,10 +7,6 @@ arch = "arm64-v8a"
 apkmirror-dpi = "120-640dpi"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/ebay-mobile/ebay"
 
-[Infinity]
-arch = "arm64-v8a"
-apkmirror-dlurl = "https://www.apkmirror.com/apk/docile-alligator/infinity-for-reddit-plus"
-
 [Instagram]
 arch = "arm64-v8a"
 #apkmirror-dpi = "480dpi"
@@ -19,7 +15,6 @@ uptodown-dlurl = "https://instagram.uptodown.com/android"
 
 [Music]
 arch = "arm64-v8a"
-patches-source = "anddea/revanced-patches"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.uptodown.com/android"
 
